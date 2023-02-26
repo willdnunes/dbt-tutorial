@@ -1,0 +1,6 @@
+
+target/
+dbt_packages/
+logs/
+bigquery_service_account_keyfile/
+profiles.yml
